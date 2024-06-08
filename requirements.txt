@@ -1,2 +1,8 @@
 statsbombpy
 mplsoccer
+plotly
+pandas
+numpy
+networkx
+altair
+scipy
